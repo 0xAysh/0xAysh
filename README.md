@@ -21,4 +21,4 @@ I’m interested in blockchain, infrastructure, backend systems, and building pr
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-rangrej/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-rangrej/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logoColor=white)](mailto:rangrejayush01@gmail.com)
