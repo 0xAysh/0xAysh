@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Ayush
 
-<!--
-**0xAysh/0xAysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior student interested in **Blockchain, Infra, and shipping production grade products**.
 
-Here are some ideas to get you started:
+I’m interested in blockchain, infrastructure, backend systems, and building practical products with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+
+**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about - directly from mainnet peers, verified cryptographically, served locally.
+
+**[Academic Analytics Platform](https://github.com/0xAysh/Academic-Analytics-Platform):** A full-stack web application for managing and visualizing academic transcript data.
+
+**[Sentiment Dashboard](https://github.com/0xAysh/Sentiment-Dashboard):** A FastAPI-based backend service for analyzing stock market sentiment from news articles using FinBERT and AI-powered rationales.
+
+
+## Tech I work with
+
+`Python` `Rust` `React` `TypeScript` `Ethereum` `JSON-RPC` `FastAPI` `Node.js` `PostgreSQL` `SQLite` `SQLx` `Docker` `Git` `Tailwind CSS` `Next.js` `Redis` `REST APIs` `Tokio` `CLI Tools` 
+
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-rangrej/)
