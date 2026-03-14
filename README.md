@@ -2,7 +2,7 @@
 
 I'm a junior student interested in **Blockchain, Infra, and shipping production grade products**.
 
-I’m interested in blockchain, infrastructure, backend systems, and building practical products with AI.
+I’m interested in blockchain infrastructure, backend systems, and building practical products.
 
 
 ## Projects
