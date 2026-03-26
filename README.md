@@ -1,6 +1,6 @@
 # Hey, I'm Ayush
 
-I'm a junior student interested in **Blockchain, Infra, and shipping production grade products**.
+I'm a student in junior year interested in **Blockchain, Infra, and shipping production grade products**.
 
 I’m interested in blockchain infrastructure, backend systems, and building practical products.
 
