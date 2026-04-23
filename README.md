@@ -1,6 +1,6 @@
 # Hey, I'm Ayush
 
-I'm a student in junior year interested in **Blockchain, Infra, Systems**.
+I'm a student in my junior year.
 
 I’m interested in blockchain infrastructure, backend systems, and building practical products.
 
