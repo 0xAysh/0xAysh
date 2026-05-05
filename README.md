@@ -2,7 +2,7 @@
 
 I'm a student in my junior year.
 
-I’m interested in blockchain infrastructure, backend systems, and building practical products.
+I’m interested in blockchain, backend systems, OSS, and building practical products.
 
 
 ## Projects
