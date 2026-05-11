@@ -7,7 +7,7 @@ I’m interested in blockchain, backend systems, OSS, and building practical pro
 
 ## Projects
 
-**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about - directly from mainnet peers, verified cryptographically, served locally.
+**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about -  from Era Files, verified cryptographically, served locally.
 
 **[Academic Analytics Platform](https://github.com/0xAysh/Academic-Analytics-Platform):** A full-stack web application for managing and visualizing academic transcript data.
 
