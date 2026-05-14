@@ -16,7 +16,7 @@ I’m interested in blockchain, backend systems, OSS, and building practical pro
 
 ## Tech I work with
 
-`Python` `Rust` `React` `TypeScript` `Ethereum` `JSON-RPC` `FastAPI` `Node.js` `PostgreSQL` `SQLite` `SQLx` `Docker` `Git` `Tailwind CSS` `Next.js` `Redis` `REST APIs` `Tokio` `CLI Tools` 
+`Python` `Rust` `React` `TypeScript` `Ethereum` `JSON-RPC` `Node.js` `PostgreSQL` `SQLite` `Git` `Tailwind CSS` `Next.js` `CLI Tools` `and much more`
 
 
 ## Connect
