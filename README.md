@@ -2,7 +2,7 @@
 
 I'm a student in my junior year.
 
-I’m interested in Infra/Systems, backend systems, OSS, and building practical products.
+I’m interested in Infra/Systems, backend, OSS, and building practical products.
 
 
 ## Projects
