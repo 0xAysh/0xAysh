@@ -1,13 +1,15 @@
 # Hey, I'm Ayush
 
-I'm a student in my junior year.
+CS undergrad @ SFSU. I like backend, systems, and infra.
 
-I’m interested in Infra/Systems, backend, OSS, and building practical products.
-
+Figuring out how things work under the hood and building stuff that holds up. I dabble across the rest of the stack too.
 
 ## Projects
 
-**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about -  from Era Files, verified cryptographically, served locally.
+**[Lume](https://github.com/0xAysh/Lume):** A local-first macOS app that lets you search your photo and video library by describing the moment in natural language,
+  "a girl riding a bicycle", instead of scrolling through filenames and dates.
+
+**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about; from Era Files, verified cryptographically, served locally.
 
 **[Academic Analytics Platform](https://github.com/0xAysh/Academic-Analytics-Platform):** A full-stack web application for managing and visualizing academic transcript data.
 
@@ -16,7 +18,9 @@ I’m interested in Infra/Systems, backend, OSS, and building practical products
 
 ## Tech I work with
 
-`Python` `Rust` `React` `TypeScript` `Ethereum` `JSON-RPC` `Node.js` `PostgreSQL` `SQLite` `Git` `Tailwind CSS` `Next.js` `CLI Tools` `and much more`
+Systems & Backend:  `Rust` · `Python` · `Linux` · `PostgreSQL` · `SQLite`
+
+Web: `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind` 
 
 
 ## Connect
