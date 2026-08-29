@@ -1,6 +1,6 @@
 # Hey, I'm Ayush
 
-I build systems and backend software, mostly in Rust and Python. But also work with TS and frameworks to develop user-facing interfaces.
+I build systems and backend software, mostly in Rust and Python, and occasionally ship user-facing applications in TypeScript.
 
 I also contribute to OSS in my free time. 
 
