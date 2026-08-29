@@ -1,6 +1,6 @@
 # Hey, I'm Ayush
 
-CS undergrad @ SFSU. I like backend, systems, and infra.
+CS @ SFSU. I like backend, systems, and infra.
 
 Figuring out how things work under the hood and building stuff that holds up. I dabble across the rest of the stack too.
 
