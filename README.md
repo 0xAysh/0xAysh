@@ -1,26 +1,19 @@
 # Hey, I'm Ayush
 
-CS @ SFSU. I like backend, systems, and infra.
+I build systems and backend software, mostly in Rust and Python. But also work with TS and frameworks to develop user-facing interfaces.
 
-Figuring out how things work under the hood and building stuff that holds up. I dabble across the rest of the stack too.
+I also contribute to OSS in my free time. 
 
 ## Projects
 
-**[Lume](https://github.com/0xAysh/Lume):** A local-first macOS app that lets you search your photo and video library by describing the moment in natural language,
-  "a girl riding a bicycle", instead of scrolling through filenames and dates.
+**[Lume](https://github.com/0xAysh/Lume):** A local-first semantic search engine for photos and videos using on-device AI, Rust, Python, SQLite vector search, and cross-process IPC.
 
-**[Scopenode](https://github.com/0xAysh/scopenode):** A custom Ethereum node that syncs exactly the contract events you care about; from Era Files, verified cryptographically, served locally.
-
-**[Academic Analytics Platform](https://github.com/0xAysh/Academic-Analytics-Platform):** A full-stack web application for managing and visualizing academic transcript data.
-
-**[Sentiment Dashboard](https://github.com/0xAysh/Sentiment-Dashboard):** A FastAPI-based backend service for analyzing stock market sentiment from news articles using FinBERT and AI-powered rationales.
+**[Scopenode](https://github.com/0xAysh/scopenode):** A Rust-based indexing engine for historical Ethereum data with cryptographic verification, structured event decoding, persistent storage, and JSON-RPC/REST APIs.
 
 
 ## Tech I work with
 
-Systems & Backend:  `Rust` · `Python` · `Linux` · `PostgreSQL` · `SQLite`
-
-Web: `TypeScript` · `React` · `Next.js` · `Node.js` · `Tailwind` 
+`Rust` · `Python` · `SQL` · `TypeScript`
 
 
 ## Connect
