@@ -10,6 +10,9 @@ I also contribute to OSS in my free time.
 
 **[Scopenode](https://github.com/0xAysh/scopenode):** A Rust-based indexing engine for historical Ethereum data with cryptographic verification, structured event decoding, persistent storage, and JSON-RPC/REST APIs.
 
+**[Academic Analytics Platform](https://github.com/0xAysh/Academic-Analytics-Platform):** A full-stack web application for managing and visualizing academic transcript data.
+
+**[Sentiment Dashboard](https://github.com/0xAysh/Sentiment-Dashboard):** A FastAPI-based backend service for analyzing stock market sentiment from news articles using FinBERT and AI-powered rationales.
 
 ## Tech I work with
 
